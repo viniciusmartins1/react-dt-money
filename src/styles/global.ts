@@ -19,7 +19,7 @@ export const GlobalStyle = createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
 
-  border, input-security, textarea, button {
-    font: 400 1rem Roboto, sans-serif;
+  body, input-security, textarea, button {
+    font: 400 1rem 'Roboto', sans-serif;
   }
 `;
