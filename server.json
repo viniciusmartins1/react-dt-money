@@ -9,14 +9,6 @@
       "createdAt": "2023-04-27T23:48:49.161Z"
     },
     {
-      "id": 2,
-      "description": "Hambúrguer",
-      "type": "outcome",
-      "category": "Alimentação",
-      "price": 60,
-      "createdAt": "2023-07-29T23:48:49.161Z"
-    },
-    {
       "id": 3,
       "description": "Ignite Rocketseat",
       "type": "outcome",
@@ -25,28 +17,12 @@
       "createdAt": "2023-07-29T19:48:24.161Z"
     },
     {
-      "description": "Desenvolvimento de app",
-      "price": 10000,
-      "category": "Venda",
-      "type": "income",
-      "createdAt": "2023-04-30T17:24:30.276Z",
+      "description": "Teste ",
+      "price": 1200,
+      "category": "Teste",
+      "type": "outcome",
+      "createdAt": "2023-05-04T17:32:10.045Z",
       "id": 4
-    },
-    {
-      "description": "pastel",
-      "price": 5,
-      "category": "Alimentação",
-      "type": "outcome",
-      "createdAt": "2023-04-30T17:44:33.947Z",
-      "id": 5
-    },
-    {
-      "description": "Iorgute de banana",
-      "price": 10,
-      "category": "Alimentação",
-      "type": "outcome",
-      "createdAt": "2023-04-30T17:45:12.471Z",
-      "id": 6
     }
   ]
 }
