@@ -12,7 +12,7 @@ Projeto prático desenvolvido durante o programa Ignite (modulo 3) da [Rocketsea
 </div>
 <div align="center">
 
-![Funcionamento da aplicação página Home](https://github.com/viniciusmartins1/react-dt-money/blob/main/assets/readme/home_page_.gif)
+![Funcionamento da aplicação página Home](https://github.com/viniciusmartins1/react-dt-money/blob/main/assets/readme/home_page.gif)
 
 </div>
 
@@ -26,7 +26,7 @@ Projeto prático desenvolvido durante o programa Ignite (modulo 3) da [Rocketsea
 
 <div align="center">
 
-![Funcionamento do botão de Nova Transação](https://github.com/viniciusmartins1/react-dt-money/blob/main/assets/readme/nova_transacao.gif)
+![Funcionamento do botão de Nova Transação](https://github.com/viniciusmartins1/react-dt-money/blob/main/assets/readme/nova_trasacao.gif)
 
 </div>
 
